@@ -1,6 +1,6 @@
 # Autoencoder Attractors for Uncertainty Estimation
 
-This repository is the official PyTorch implementation of [Autoencoder Attractors for Uncertainty Estimation](https://sviro.kl.dfki.de/). 
+This repository is the official PyTorch implementation of [Autoencoder Attractors for Uncertainty Estimation](https://arxiv.org/abs/2204.00382). 
 
 <img src="graphics/reconstructions.png" alt="reconstructions" width="1500"/>
 
